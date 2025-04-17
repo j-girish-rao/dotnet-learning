@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivathu.Madu.Api", "..\Ivathu.Madu.Api\Ivathu.Madu.Api.csproj", "{0EA71589-2A75-4D62-92A6-E3297F185E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivathu.Madu.BusinessLayer", "..\Ivathu.Madu.BusinessLayer\Ivathu.Madu.BusinessLayer.csproj", "{CF240E70-F8FA-4B83-86B7-9809EAB28659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivathu.Madu.DataAccessLayer", "..\Ivathu.Madu.DataAccessLayer\Ivathu.Madu.DataAccessLayer.csproj", "{3EC2F8BB-4F93-4359-A8F2-55F83E02AD47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivathu.Madu.Others.Common", "..\Ivathu.Madu.Others.Common\Ivathu.Madu.Others.Common.csproj", "{4F69D67E-195B-4CAB-A4CD-9CC6C20ED992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivathu.Madu.Others.Model", "..\Ivathu.Madu.Others.Model\Ivathu.Madu.Others.Model.csproj", "{25E4698E-43A0-4E85-B46A-2E7DB538447F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EA71589-2A75-4D62-92A6-E3297F185E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA71589-2A75-4D62-92A6-E3297F185E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA71589-2A75-4D62-92A6-E3297F185E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA71589-2A75-4D62-92A6-E3297F185E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF240E70-F8FA-4B83-86B7-9809EAB28659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF240E70-F8FA-4B83-86B7-9809EAB28659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF240E70-F8FA-4B83-86B7-9809EAB28659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF240E70-F8FA-4B83-86B7-9809EAB28659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC2F8BB-4F93-4359-A8F2-55F83E02AD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC2F8BB-4F93-4359-A8F2-55F83E02AD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC2F8BB-4F93-4359-A8F2-55F83E02AD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC2F8BB-4F93-4359-A8F2-55F83E02AD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F69D67E-195B-4CAB-A4CD-9CC6C20ED992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F69D67E-195B-4CAB-A4CD-9CC6C20ED992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F69D67E-195B-4CAB-A4CD-9CC6C20ED992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F69D67E-195B-4CAB-A4CD-9CC6C20ED992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E4698E-43A0-4E85-B46A-2E7DB538447F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E4698E-43A0-4E85-B46A-2E7DB538447F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E4698E-43A0-4E85-B46A-2E7DB538447F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E4698E-43A0-4E85-B46A-2E7DB538447F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27C89CE6-B624-426A-8A81-96D9BA992E04}
+	EndGlobalSection
+EndGlobal
