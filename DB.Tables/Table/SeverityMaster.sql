@@ -1,8 +1,0 @@
-﻿CREATE TABLE [dbo].[SeverityMaster]
-(
-	[Id] UNIQUEIDENTIFIER NOT NULL,
-	[Name] NVARCHAR(256) NOT NULL,
-	[Priority] INT NOT NULL,
-	[Color] NVARCHAR(16) NOT NULL,
-	CONSTRAINT PK_SeverityMaster PRIMARY KEY (Id)
-)
