@@ -1,0 +1,6 @@
+To scaffold DB Context
+
+Scaffold-DbContext
+	"Server=GIRISH;Database=myDailyTakeDb;Trusted_Connection=True;TrustServerCertificate=True"
+	Microsoft.EntityFrameworkCore.SqlServer
+	-OutputDir Models

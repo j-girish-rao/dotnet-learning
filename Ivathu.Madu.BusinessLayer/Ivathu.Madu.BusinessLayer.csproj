@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ivathu.Madu.DataAccessLayer\Ivathu.Madu.DataAccessLayer.csproj" />
+  </ItemGroup>
+
 </Project>
