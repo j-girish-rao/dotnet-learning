@@ -1,6 +1,0 @@
-@myDailyTask.Api_HostAddress = http://localhost:5162
-
-GET {{myDailyTask.Api_HostAddress}}/Severity/
-Accept: application/json
-
-###
